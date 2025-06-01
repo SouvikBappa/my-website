@@ -49,7 +49,7 @@ body {
 
 #hero {
   height: 100vh;
-  background-image: url('Images/boy.jfif');
+  background-image: url('boy.jfif');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
